@@ -2,10 +2,11 @@
         "EVENT": {
                   "runid": 7156,
                         "evtid": 16,
-                              "time": "05/22/2023, 02:07 EST",
-                                    "type": "Collision",
+                              "time": 1684764420,
+                                 "timeStr": "2023-05-22, 02:07:00 EST",
+                                    "type": "Au + Au",
                                           "s_nn": 200,
-                                                "B": 0.0,
+                                                "B": 1.5,
                                                       "pv": [0,0,0]
                                                               },
             "META": {
