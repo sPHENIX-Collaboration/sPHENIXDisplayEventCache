@@ -2,13 +2,15 @@
     "EVENT": {
       "runid": 7156,
       "evtid": 12,
-      "time": 1684764420,
-      "timeStr": "2023-05-22, 02:07:00 EST",
-      "time": "05/22/2023, 02:07 EST",
-      "type": "Au + Au",
       "s_nn": 200,
       "B": 0.0,
-      "pv": [0,0,0]
+      "pv": [0,0,0],
+      "runstats": [
+              "sPHENIX Experiment at RHIC",
+              "Data recorded: 2023-05-22 02:07:00 EST",
+              "Run / Event: 7156 / 16",
+              "Collisions: Au + Au @ √S<sub>NN</sub> = 200 GeV"
+          ]
     },
     "META": {
       "HITS": {
