@@ -1,76 +1,60 @@
 {
     "EVENT": {
-        "runid": 40630,
+        "runid":40630,
         "evtid": 1,
         "time": 0,
-        "timeStr": "2024-04-27",
-        "type": "Cosmics",
+ "timeStr": "2024-04-27",
+       "type": "Cosmics",
         "s_nn": 0,
         "B": 0.0,
-        "pv": [
-            0,
-            0,
-            0
-        ],
-        "runstats": [
-            "sPHENIX Time Projection Chamber",
-            "2024-04-27, Run 40630 - Event 10034",
-            "<i><strong> p+p  </strong></i> 200 GeV, 0 Magnetic Field"
-        ]
-    },
+        "pv": [0,0,0],
+  "runstats": [
+  "sPHENIX Time Projection Chamber", "2024-04-27, Run 40630 - Event 10034", "<i><strong> p+p  </strong></i> 200 GeV, 0 Magnetic Field"]
+   },
+
     "META": {
-        "HITS": {
-            "INNERTRACKER": {
-                "type": "3D",
-                "options": {
-                    "size": 2,
-                    "color": 16777215
-                }
-            },
-            "TRACKHITS": {
-                "type": "3D",
-                "options": {
-                    "size": 2,
-                    "transparent": 0.5,
-                    "color": 16777215
-                }
-            },
-            "JETS": {
-                "type": "JET",
-                "options": {
-                    "rmin": 0,
-                    "rmax": 78,
-                    "emin": 0,
-                    "emax": 30,
-                    "color": 16777215,
-                    "transparent": 0.5
-                }
-            }
+       "HITS": {
+          "INNERTRACKER": {
+              "type": "3D",
+              "options": {
+              "size": 2,
+              "color": 16777215
+              }
+          },
+
+          "TRACKHITS": {
+              "type": "3D",
+              "options": {
+              "size": 2,
+              "transparent": 0.5,
+              "color": 16777215
+              }
+          },
+
+    "JETS": {
+        "type": "JET",
+        "options": {
+            "rmin": 0,
+            "rmax": 78,
+            "emin": 0,
+            "emax": 30,
+            "color": 16777215,
+            "transparent": 0.5
         }
-    },
-    "HITS": {
-        "CEMC": [
-            {
-                "eta": 0,
-                "phi": 0,
-                "e": 0
-            }
-        ],
-        "HCALIN": [
-            {
-                "eta": 0,
-                "phi": 0,
-                "e": 0
-            }
-        ],
-        "HCALOUT": [
-            {
-                "eta": 0,
-                "phi": 0,
-                "e": 0
-            }
-        ]
-    },
+    }
+        }
+    }
+,
+"HITS": {
+    "CEMC":[{"eta": 0, "phi": 0, "e": 0}
+    ],
+    "HCALIN": [{"eta": 0, "phi": 0, "e": 0}
+    ],
+    "HCALOUT": [{"eta": 0, "phi": 0, "e": 0}
+        
+    ],
+    
+    
     "TRACKHITS": [
         {
             "x": -27.18546,
@@ -39427,8 +39411,10 @@
             "e": 2.0
         }
     ],
-    "JETS": [],
-    "TRACKS": {
-        "INNERTRACKER": []
-    }
-}
+       "JETS": [
+            ]
+       },
+   "TRACKS": {
+   "INNERTRACKER": []
+   }
+   }
