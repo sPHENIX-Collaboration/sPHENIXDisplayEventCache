@@ -1,7 +1,7 @@
 {
     "EVENT": {
         "runid":43865, 
-        "evtid": 28, 
+        "evtid": 1, 
         "time": 0, 
  "timeStr": "2024-05-25", 
        "type": "Physics", 
@@ -9,7 +9,7 @@
         "B": 0.0,
         "pv": [0,0,0],
   "runstats": [ 
-  "sPHENIX Time Projection Chamber", "2024-05-25, Run 43865 - Event 1, ZDC = 0.112 kHz",  "<i><strong> p+p  </strong></i> 200 GeV,  1.4 T"] 
+  "sPHENIX Time Projection Chamber", "2024-05-25, Run 43865 - Event 1",  "ZDC = 0.112 kHz, <i><strong> p+p  </strong></i> 200 GeV, 1.4 T Magnetic Field, MBD Coin. Trigger"] 
    },
 
     "META": {
