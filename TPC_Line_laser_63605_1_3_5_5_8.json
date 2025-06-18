@@ -15,7 +15,7 @@
         "runstats": [
             "sPHENIX Time Projection Chamber",
             "2025-05-01, Run 63605 - Events 1, 3, 4, 5, 8",
-            "Line lasers: 3S, 6S, 12S, 9S, 9N. Theta_nominal = 39, Phi_nominal = 12.75. B = 1.4 T"
+            "Line lasers: 3S, 6S, 12S, 9S, 9N. Theta_nominal = 29 deg., Phi_nominal = 338.5 deg., B = 1.4 T"
         ]
     },
     "META": {
